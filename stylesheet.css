@@ -125,3 +125,17 @@ a:visited
 {
     background-color: black;
 }
+
+#harita {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    padding-top: 20px;
+  }
+
+  iframe {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 450px;
+  }
