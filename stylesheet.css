@@ -57,5 +57,23 @@ a:visited
 
 #content
 {
-    height: 900px;
+    height: 1500px;
+}
+
+#gideros
+{
+    float: left;
+    border: 5px solid #1e81b0;
+    height: 700px;
+    width: 400px;
+    margin: 8px;
+}
+
+#tepe
+{
+    float: right;
+    border: 5px solid #1e81b0;
+    height: 700px;
+    width: 400px;
+    margin: 8px;
 }
